@@ -1,4 +1,4 @@
-# Predicting-Housing-Price
+# Predicting Housing Market Value
 
 This is my final project for my data science class using Jupyter notebooks.
 
